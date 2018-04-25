@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+    background-color: black;
+}
+H1 {
+    font-family: monospace;
+    font-size: 44px;
+    color: white;
+}
